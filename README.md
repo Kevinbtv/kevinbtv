@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, there 👋
 ### I'm Kevin Tavares
 
 - I’m Software Developer Student on Uninassau.📚
