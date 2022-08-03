@@ -1,8 +1,7 @@
 ### Hi, there 👋
 ### I'm Kevin Tavares
 
-- I’m Software Developer.
-- I have been learning about Front-End.
+- I’m work as Software Engineer.
 
  <div>
   <a href="https://github.com/kevinbtv">
