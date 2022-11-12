@@ -15,4 +15,4 @@
 </a>
   
  ### Skills
- [![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,typescript,docker,svelte,react&theme=light)](https://skills.thijs.gg)
+ [![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,javascript,typescript,svelte,react,astro,nodejs&theme=light)](https://skills.thijs.gg)
