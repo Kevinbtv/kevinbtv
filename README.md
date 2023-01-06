@@ -1,7 +1,7 @@
 ### Hi, there 👋
 ### I'm Kevin Tavares
 
-- I’m work as Software Engineer.
+- I work as Software Engineer.
 
  <div>
   <a href="https://github.com/kevinbtv">
