@@ -2,7 +2,7 @@
 ### I'm Kevin Tavares
 
 - I'm from Brazil! 🇧🇷
-- I've been working on Elo7 as Frontend Software Engineer, using AstroJS, SvelteJS, TypeScript, and TDD With Jest and Testing Library 💻
+- I've been working on Elo7 as Frontend Software Engineer, using AstroJS, SvelteJS, TypeScript, and TDD With Vitest and Testing Library 💻
 
  ### Contact
 <a href="https://www.linkedin.com/in/kevinbtv" target="_blank">
