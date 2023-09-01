@@ -10,4 +10,4 @@
 </a>
   
  ### Skills
- [![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,javascript,typescript,svelte,react,nextjs,astro,nodejs,jest,webpack&theme=light)](https://skills.thijs.gg)
+ [![My Skills](https://skills.thijs.gg/icons?i=html,css,scss,javascript,typescript,svelte,react,nextjs,astro,nodejs,jest,docker&theme=light)](https://skills.thijs.gg)
